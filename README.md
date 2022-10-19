@@ -4,6 +4,15 @@ _This is a sample program of an algorithm in Go_
 
 ## Table of Contents
 
+1. [Argorithms](#Argorithms)
+2. [Roadmap](#Roadmap)
+3. [Contributing](#Contributing)
+4. [License](#License)
+4. [Contact](#Contact)
+
+
+## Argorithms
+
 * [List](list/README.md)
 * [Stack](stack/README.md)
 * [Queue](queue/README.md)
@@ -18,9 +27,11 @@ _This is a sample program of an algorithm in Go_
 * [Dijkstra's algorithm](dijkstra/README.md)
 * [A*](astar/README.md)
 
+
 ## Readmap
 
 See the [open issues](https://github.com/135yshr/algorithm-sample/issues) for a list of proposed features (and known issues).
+
 
 ## Contributing
 
@@ -32,9 +43,11 @@ Contributions are what make the open source community such an amazing place to l
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-## LIcense
+
+## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/135yshr/algorithm-sample/blob/main/LICENSE) for more information.
+
 
 ## Contact
 
