@@ -12,4 +12,9 @@ _This is a sample program of an algorithm in Go_
 * [Heap](heap/README.md)
 * [Binary search tree](binary-search-tree/README.md)
 * [Ring](ring/README.md)
+* [Breadth-First Search](bfs/README.md)
+* [Depth-First Search](dfs/README.md)
+* [Bellman-Ford algorithm](bf/README.md)
+* [Dijkstra's algorithm](dijkstra/README.md)
+* [A*](astar/README.md)
 
