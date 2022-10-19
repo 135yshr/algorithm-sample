@@ -28,7 +28,7 @@ _This is a sample program of an algorithm in Go_
 * [A*](astar/README.md)
 
 
-## Readmap
+## Roadmap
 
 See the [open issues](https://github.com/135yshr/algorithm-sample/issues) for a list of proposed features (and known issues).
 
