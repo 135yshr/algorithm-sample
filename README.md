@@ -11,4 +11,5 @@ _This is a sample program of an algorithm in Go_
 * [Hash Table](hash-Table/README.md)
 * [Heap](heap/README.md)
 * [Binary search tree](binary-search-tree/README.md)
+* [Ring](ring/README.md)
 
