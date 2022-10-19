@@ -20,7 +20,7 @@ _This is a sample program of an algorithm in Go_
 
 ## LIcense
 
-Distributed under the MIT License. See [LICENSE](blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/135yshr/algorithm-sample/blob/main/LICENSE) for more information.
 
 ## Contact
 
@@ -29,13 +29,13 @@ Distributed under the MIT License. See [LICENSE](blob/main/LICENSE) for more inf
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/135yshr/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/135yshr/go-confernce-mini-2022/graphs/contributors
+[contributors-url]: https://github.com/135yshr/algorithm-sample/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/135yshr/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/135yshr/go-confernce-mini-2022/network/members
+[forks-url]: https://github.com/135yshr/algorithm-sample/network/members
 [stars-shield]: https://img.shields.io/github/stars/135yshr/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/135yshr/go-confernce-mini-2022/stargazers
+[stars-url]: https://github.com/135yshr/algorithm-sample/stargazers
 [issues-shield]: https://img.shields.io/github/issues/135yshr/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/135yshr/go-confernce-mini-2022/issues
+[issues-url]: https://github.com/135yshr/algorithm-sample/issues
 [license-shield]: https://img.shields.io/github/license/135yshr/repo.svg?style=for-the-badge
 [license-url]: https://github.com/135yshr/algorithm-sample/blob/master/LICENSE
 
